@@ -1,0 +1,6 @@
+rootProject.name = 'serviceloader'
+include 'service-interface'
+include 'service-impl'
+include 'business'
+include 'app'
+

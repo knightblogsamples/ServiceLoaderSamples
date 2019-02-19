@@ -1,0 +1,7 @@
+group 'com.knight'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
