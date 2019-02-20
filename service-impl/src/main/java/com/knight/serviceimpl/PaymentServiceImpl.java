@@ -1,7 +1,9 @@
 package com.knight.serviceimpl;
 
+import com.google.auto.service.AutoService;
 import com.knight.PaymentService;
 
+@AutoService(PaymentService.class)
 public class PaymentServiceImpl implements PaymentService {
     @Override
     public void pay(String productName, double price) {

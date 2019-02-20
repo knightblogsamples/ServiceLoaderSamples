@@ -6,3 +6,9 @@
 **/captures/
 **/*.iml
 **/local.properties
+
+*.class
+
+.idea
+*.iml
+classes
